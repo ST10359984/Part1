@@ -3,4 +3,4 @@ Then recipe app is a console based application that allows users to create, mana
 #Prerequisites
 Before you begin, make sure you have installed .NET Core SDK.
 #Cloning the repository 
-First clone the repository to your local machine using Git:  '''bash git clone 
+First clone the repository to your local machine using Git:  '''bash git clone https://github.com/ST10359984/Part1
